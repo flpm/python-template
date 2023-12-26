@@ -1,2 +1,3 @@
 # python-template
-Template for a Python project
+
+A template for starting a new repo that will contain a Python project
