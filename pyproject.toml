@@ -37,7 +37,7 @@ checks = [
     "SA01", # don't require see also
     "ES01", # don't require extended summary
     "SS06", # don't require summary to fit on a single line
-    "SA04" # allow see also entries without descriptions
+    "SA04", # allow see also entries without descriptions
 ]
 exclude = ['\.__(init|repr|str)__$']
 
